@@ -1,2 +1,2 @@
-# EDA-on-Bike-Sharing-
-Data Analysis on bike sharing data
+# DATA ANALYSIS-on-Bike-Sharing-DATA
+Data Analysis on bike sharing data 
